@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Maquina\Maquina\bin\Debug\Maquina.exe.config
+C:\Users\DELL\source\repos\Maquina\Maquina\bin\Debug\Maquina.exe
+C:\Users\DELL\source\repos\Maquina\Maquina\bin\Debug\Maquina.pdb
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.Properties.Resources.resources
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.exe
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.pdb
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.exe.config
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.Maquina.resources
+C:\Users\DELL\source\repos\Maquina\Maquina\obj\Debug\Maquina.Inventario.resources
